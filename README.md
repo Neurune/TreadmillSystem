@@ -1,5 +1,10 @@
 # Flexible treadmill system for measuring locomotion in head-fixed mice
 
+
+![](Photos/Combined.tif)
+
+
+
 This repository contains: 
 
 1) blueprints for the manufactoring of custom components for the treadmill system
