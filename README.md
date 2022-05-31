@@ -1,9 +1,6 @@
 # Flexible treadmill system for measuring locomotion in head-fixed mice
 
-
-
-
-
+![](Photos/setup.png)
 
 This repository contains: 
 
