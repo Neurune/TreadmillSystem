@@ -26,7 +26,7 @@ This folder contains raw .ABF data files recorded with Axon Clampex software dur
 
 Analysis code
 --------
-This folder contains code for analysis of the treadmill-derived data. The code is written in MATLAB and organized into a master script (“TreadmillMaster.m”) which calls three main functions: “getABFfiles.m”, “getLocSpeed.m”, and “getLocSpeedQuant.m”. The final part of the master script generates figures and saves a file containing the computed locomotion metrics and quantifications.
+This folder contains code for analysis of the treadmill-derived data. The code is written in MATLAB and organized into a master script (“TreadmillMaster.m”) which calls three main functions: “getABFfiles.m”, “getLocSpeed.m”, and “getLocQuant.m”. The final part of the master script generates figures and saves a file containing the computed locomotion metrics and quantifications.
 
 Contact
 --------
