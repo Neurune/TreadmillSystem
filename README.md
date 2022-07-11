@@ -13,7 +13,8 @@ Custom components
 This folder contains blueprints for the manufactoring of the following components:
 
 <ul>
-<li> Foam roll
+<li> Foam roller
+<li> Shaft
 <li> Ball-bearing blocks
 <li> Headplate-fixation arms
 <li> Headplate
